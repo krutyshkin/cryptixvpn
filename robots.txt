@@ -3,22 +3,6 @@
 
 User-agent: *
 Allow: /
-Disallow: /NoZaliv/
-Disallow: /.git/
-Disallow: /.vscode/
-Disallow: /.playwright-mcp/
-
-# Основные страницы
-Allow: /index.html
-Allow: /franchise.html
-Allow: /privacy.html
-Allow: /rules.html
-
-# Статические ресурсы
-Allow: /css/
-Allow: /js/
-Allow: /img/
-Allow: /video/
 
 # Карта сайта
 Sitemap: https://cryptixvpn.cyou/sitemap.xml
