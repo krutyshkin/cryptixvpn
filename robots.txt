@@ -1,0 +1,47 @@
+# robots.txt для CryptixVPN
+# https://cryptixvpn.cyou
+
+User-agent: *
+Allow: /
+Disallow: /NoZaliv/
+Disallow: /.git/
+Disallow: /.vscode/
+Disallow: /.playwright-mcp/
+
+# Основные страницы
+Allow: /index.html
+Allow: /franchise.html
+Allow: /privacy.html
+Allow: /rules.html
+
+# Статические ресурсы
+Allow: /css/
+Allow: /js/
+Allow: /img/
+Allow: /video/
+
+# Карта сайта
+Sitemap: https://cryptixvpn.cyou/sitemap.xml
+
+# Специальные правила для поисковиков
+User-agent: Yandex
+Allow: /
+Disallow: /NoZaliv/
+Crawl-delay: 1
+
+User-agent: Googlebot
+Allow: /
+Disallow: /NoZaliv/
+
+# Запрет для плохих ботов
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /

@@ -1,0 +1,36 @@
+<svg width="140" height="30" viewBox="0 0 140 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- Shield with code symbol -->
+<g>
+<!-- Shield outline -->
+<path d="M15 3L7 6V13C7 18.5 10.5 23 15 26C19.5 23 23 18.5 23 13V6L15 3Z" 
+      fill="url(#paint0_linear)" 
+      stroke="#FFD748" 
+      stroke-width="1.2"/>
+
+<!-- Code brackets inside shield -->
+<path d="M11 11L9 15L11 19M19 11L21 15L19 19" 
+      stroke="#FFD748" 
+      stroke-width="1.8" 
+      stroke-linecap="round" 
+      stroke-linejoin="round"/>
+<path d="M16 11L14 19" 
+      stroke="#FFD748" 
+      stroke-width="1.8" 
+      stroke-linecap="round"/>
+</g>
+
+<!-- Text: CryptixVPN -->
+<text x="30" y="20" 
+      font-family="'PT Mono', monospace" 
+      font-size="13" 
+      font-weight="700" 
+      fill="#fff" 
+      letter-spacing="0.5">CryptixVPN</text>
+
+<defs>
+<linearGradient id="paint0_linear" x1="15" y1="3" x2="15" y2="26" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFCB4B"/>
+<stop offset="1" stop-color="#FFD748"/>
+</linearGradient>
+</defs>
+</svg>

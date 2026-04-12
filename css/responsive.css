@@ -1,0 +1,263 @@
+/* Tablet */
+@media (max-width: 768px) {
+  :root {
+    --container-padding: 16px;
+    --spacing-xl: 32px;
+    --spacing-2xl: 48px;
+    --spacing-3xl: 64px;
+  }
+  
+  /* Header */
+  .nav {
+    position: fixed;
+    top: 70px;
+    left: 0;
+    right: 0;
+    background: var(--dark);
+    flex-direction: column;
+    padding: var(--spacing-lg);
+    gap: var(--spacing-md);
+    transform: translateX(-100%);
+    transition: transform var(--transition-base);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  .nav.active {
+    transform: translateX(0);
+  }
+  
+  .burger {
+    display: flex;
+  }
+  
+  .btn--header {
+    display: none;
+  }
+  
+  /* Steps */
+  .steps {
+    grid-template-columns: 1fr;
+  }
+  
+  .step__arrow {
+    transform: rotate(90deg);
+  }
+  
+  /* Franchise */
+  .franchise {
+    grid-template-columns: 1fr;
+  }
+  
+  .franchise__visual {
+    order: -1;
+  }
+  
+  /* Hero Stats */
+  .hero__stats {
+    gap: var(--spacing-lg);
+  }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  :root {
+    --font-size-base: 15px;
+    --spacing-xl: 24px;
+    --spacing-2xl: 40px;
+    --spacing-3xl: 56px;
+  }
+  
+  /* Hero */
+  .hero {
+    padding: var(--spacing-2xl) 0;
+  }
+  
+  .hero__stats {
+    flex-direction: column;
+    gap: var(--spacing-md);
+  }
+  
+  /* Features */
+  .features {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  /* Features */
+  .features {
+    grid-template-columns: 1fr;
+  }
+  
+  /* Reviews */
+  .reviews {
+    grid-template-columns: 1fr;
+  }
+  
+  /* Payment Methods */
+  .payment-methods__list {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Footer */
+  .footer__inner {
+    grid-template-columns: 1fr;
+  }
+  
+  /* Buttons */
+  .btn {
+    width: 100%;
+  }
+  
+  .btn--large {
+    padding: 16px 24px;
+    font-size: var(--font-size-base);
+  }
+}
+
+/* Large Desktop */
+@media (min-width: 1400px) {
+  :root {
+    --container-max: 1320px;
+  }
+}
+
+
+/* Tablet - New Sections */
+@media (max-width: 768px) {
+  .trial {
+    grid-template-columns: 1fr;
+  }
+  
+  .trial__qr {
+    order: -1;
+  }
+  
+  .trial__qr-image {
+    max-width: 250px;
+  }
+  
+  .pricing-info {
+    flex-direction: column;
+    gap: var(--spacing-md);
+  }
+  
+  .countries__grid {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  }
+}
+
+/* Mobile - New Sections */
+@media (max-width: 480px) {
+  .trial__qr-image {
+    max-width: 200px;
+  }
+  
+  .countries__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .country {
+    font-size: 13px;
+    padding: var(--spacing-xs) var(--spacing-sm);
+  }
+}
+
+
+/* Tablet - Services Grid */
+@media (max-width: 768px) {
+  .services-categories {
+    grid-template-columns: 1fr;
+  }
+  
+  .franchise-banner {
+    grid-template-columns: 1fr;
+    text-align: center;
+    padding: var(--spacing-xl);
+  }
+  
+  .franchise-banner__title {
+    font-size: 28px;
+  }
+  
+  .franchise-badge {
+    margin: 0 auto;
+  }
+}
+
+/* Mobile - Services Grid */
+@media (max-width: 480px) {
+  .service-item-compact {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .service-item-compact .iconify {
+    margin: 0 auto;
+  }
+  
+  .franchise-banner__title {
+    font-size: 24px;
+  }
+  
+  .franchise-badge__number {
+    font-size: 64px;
+  }
+}
+
+
+/* Franchise Page - Tablet */
+@media (max-width: 768px) {
+  .franchise-hero-stats {
+    gap: var(--spacing-md);
+  }
+  
+  .franchise-stat-card {
+    min-width: 120px;
+    padding: var(--spacing-lg);
+  }
+  
+  .franchise-stat-card__number {
+    font-size: 36px;
+  }
+  
+  .calculator {
+    padding: var(--spacing-xl);
+  }
+  
+  .franchise-pricing {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Franchise Page - Mobile */
+@media (max-width: 480px) {
+  .franchise-hero-stats {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .franchise-stat-card {
+    width: 100%;
+    max-width: 200px;
+  }
+  
+  .calculator {
+    padding: var(--spacing-lg);
+  }
+  
+  .calculator__result-item {
+    flex-direction: column;
+    text-align: center;
+    gap: var(--spacing-xs);
+  }
+  
+  .franchise-price-card__amount {
+    font-size: 48px;
+  }
+  
+  .withdrawal-method {
+    flex-direction: column;
+    text-align: center;
+    gap: var(--spacing-xs);
+  }
+}

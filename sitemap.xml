@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Главная страница -->
+  <url>
+    <loc>https://cryptixvpn.cyou/</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cryptixvpn.cyou/" />
+    <image:image>
+      <image:loc>https://cryptixvpn.cyou/img/logo.svg</image:loc>
+      <image:title>CryptixVPN Logo</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Страница франшизы -->
+  <url>
+    <loc>https://cryptixvpn.cyou/franchise.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cryptixvpn.cyou/franchise.html" />
+  </url>
+  
+  <!-- Политика конфиденциальности -->
+  <url>
+    <loc>https://cryptixvpn.cyou/privacy.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cryptixvpn.cyou/privacy.html" />
+  </url>
+  
+  <!-- Правила сервиса -->
+  <url>
+    <loc>https://cryptixvpn.cyou/rules.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cryptixvpn.cyou/rules.html" />
+  </url>
+
+</urlset>
