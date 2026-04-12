@@ -32,7 +32,7 @@
 
 Оплата через СБП, банковские карты РФ, криптовалюту (USDT TRC-20).
 
-### � Пробный период 3 дня
+### 🎁 Пробный период 3 дня
 Все новые пользователи получают **3 дня бесплатного доступа** для тестирования сервиса. Без привязки карты!
 
 ### 📱 5 устройств одновременно
@@ -96,17 +96,6 @@
 **+ твоя наценка на тарифы!**
 
 [Создать свой VPN бот →](https://cryptixvpn.cyou/franchise.html)
-
----
-
-## 🛠️ Технологии
-
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript
-- **Fonts:** PT Mono, Roboto (Google Fonts)
-- **SEO:** Schema.org, Open Graph, Twitter Cards
-- **Analytics:** Google Analytics 4
-- **Hosting:** GitHub Pages
-- **Domain:** cryptixvpn.cyou
 
 ---
 
@@ -183,9 +172,9 @@
 ## 📞 Контакты
 
 - 💬 **Telegram-бот:** [@CryptixVPN_bot](https://t.me/CryptixVPN_bot?start=7795354111)
+- 📢 **Telegram-канал:** [@CryptixVPN](https://t.me/CryptixVPN)
 - 🌐 **Сайт:** [cryptixvpn.cyou](https://cryptixvpn.cyou)
 - 🤝 **Франшиза:** [cryptixvpn.cyou/franchise](https://cryptixvpn.cyou/franchise.html)
-- 📧 **Email:** support@cryptixvpn.cyou
 
 ---
 
