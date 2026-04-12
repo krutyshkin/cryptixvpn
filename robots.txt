@@ -23,16 +23,6 @@ Allow: /video/
 # Карта сайта
 Sitemap: https://cryptixvpn.cyou/sitemap.xml
 
-# Специальные правила для поисковиков
-User-agent: Yandex
-Allow: /
-Disallow: /NoZaliv/
-Crawl-delay: 1
-
-User-agent: Googlebot
-Allow: /
-Disallow: /NoZaliv/
-
 # Запрет для плохих ботов
 User-agent: AhrefsBot
 Disallow: /
