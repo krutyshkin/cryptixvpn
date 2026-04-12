@@ -36,18 +36,20 @@
 
 ---
 
-## Документация
+## 📚 Документация
 
-📚 **Полная документация доступна в [Wiki](https://github.com/krutyshkin/cryptixvpn/wiki)**
+**Полная документация доступна в [Wiki](https://github.com/krutyshkin/cryptixvpn/wiki)**
 
 ### Для пользователей VPN
-- [Как начать пользоваться](https://github.com/krutyshkin/cryptixvpn/wiki/Getting-Started) — пошаговая инструкция подключения
-- [Тарифы и оплата](https://github.com/krutyshkin/cryptixvpn/wiki/Pricing) — все тарифы, способы оплаты, возврат средств
-- [Часто задаваемые вопросы](https://github.com/krutyshkin/cryptixvpn/wiki/FAQ) — ответы на популярные вопросы
+- **[Главная страница Wiki](https://github.com/krutyshkin/cryptixvpn/wiki)** — обзор сервиса и возможностей
+- **[Как начать пользоваться](https://github.com/krutyshkin/cryptixvpn/wiki/Getting-Started)** — пошаговая инструкция подключения за 30 секунд
+- **[Тарифы и оплата](https://github.com/krutyshkin/cryptixvpn/wiki/Pricing)** — все тарифы, способы оплаты, возврат средств
+- **[Часто задаваемые вопросы](https://github.com/krutyshkin/cryptixvpn/wiki/FAQ)** — ответы на популярные вопросы
 
 ### Для партнёров (Франшиза)
-- [Франшиза CryptixVPN](https://github.com/krutyshkin/cryptixvpn/wiki/Franchise-Guide) — как получить франшизу и зарабатывать 45% + наценка
+- **[Франшиза CryptixVPN](https://github.com/krutyshkin/cryptixvpn/wiki/Franchise-Guide)** — как получить франшизу и зарабатывать 45% + наценка
 - Калькулятор дохода, способы привлечения клиентов, вывод средств
+- Запуск бесплатный, технические знания не нужны
 
 ---
 
