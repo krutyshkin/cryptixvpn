@@ -1,5 +1,4 @@
 # robots.txt для CryptixVPN
-# https://cryptixvpn.cyou
 
 User-agent: *
 Allow: /
