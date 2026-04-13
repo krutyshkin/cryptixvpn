@@ -6,7 +6,7 @@
   <!-- Главная страница -->
   <url>
     <loc>https://cryptixvpn.cyou/</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://cryptixvpn.cyou/" />
@@ -19,7 +19,7 @@
   <!-- Страница франшизы -->
   <url>
     <loc>https://cryptixvpn.cyou/franchise.html</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://cryptixvpn.cyou/franchise.html" />
@@ -28,7 +28,7 @@
   <!-- Политика конфиденциальности -->
   <url>
     <loc>https://cryptixvpn.cyou/privacy.html</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://cryptixvpn.cyou/privacy.html" />
@@ -37,7 +37,7 @@
   <!-- Правила сервиса -->
   <url>
     <loc>https://cryptixvpn.cyou/rules.html</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://cryptixvpn.cyou/rules.html" />
